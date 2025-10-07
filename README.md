@@ -3,8 +3,43 @@ GBC COMP-1238 Course - Intro to Data Management.
 
 See the [summaries/](/summaries/) folder for lecture note summaries by week.
 
+## Number Row Characters
+- \! - exclamation point
+- \@ - The "at" symbol
+- \# - Hash, Pound, Sharp, Number sign
+- \$ - Dollar sign, currency, money
+- \% - percentage
+- \^ - Caret, power
+- \& - Ampersand, And sign
+- \* - star, multiplication, Asterisk
+- \( - left parenthesis, close parenthesis
+- \) - Right parenthesis, open parenthesis
+- \_ - underscore
+- \+ - plus, addition sign
 
-# Videos and links by subject
+## Links
+
+- [Markdown Guide - Hacks](https://www.markdownguide.org/hacks/)
+- [Markdown Guide - Extended Syntax](https://www.markdownguide.org/extended-syntax/)
+- [Markdown Guide - Basik Syntax](https://www.markdownguide.org/basic-syntax/)
+
+## Images
+- ![GBC Logo as SVG](https://www.georgebrown.ca/themes/custom/de_theme/logo.svg)
+- ![Random images - 320 x 320 ](https://picsum.photos/320)
+- ![The San Juan Mountains are beautiful](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=320 "San Juan Mountains")
+
+## ASCII Art
+```
+  __  __       _                                         _   _____                           _             
+ |  \/  |     | |                                       | | |  __ \                         | |            
+ | \  / | ___ | |__   __ _ _ __ ___  _ __ ___   __ _  __| | | |__) |__ _ _ __ ___   __ _  __| | __ _ _ __  
+ | |\/| |/ _ \| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _` |/ _` | |  _  // _` | '_ ` _ \ / _` |/ _` |/ _` | '_ \ 
+ | |  | | (_) | | | | (_| | | | | | | | | | | | (_| | (_| | | | \ \ (_| | | | | | | (_| | (_| | (_| | | | |
+ |_|  |_|\___/|_| |_|\__,_|_| |_| |_|_| |_| |_|\__,_|\__,_| |_|  \_\__,_|_| |_| |_|\__,_|\__,_|\__,_|_| |_|
+                                                                                                                                                                           
+```
+
+# Videos and links by subjects
 
 ## Typing
 - [reddit.com/r/typing](https://www.reddit.com/r/typing/)
